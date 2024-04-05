@@ -1,4 +1,4 @@
-######## needed functions ########
+Hi from nazisverycool######## needed functions ########
 def fill_spidermen_array():
   spidermen = [] # initalize an empty array to hold the spidermen enteries 
   while True: 
